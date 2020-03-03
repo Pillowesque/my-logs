@@ -1,0 +1,1282 @@
+Mono path[0] = 'E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Managed'
+Mono config path = 'E:/SteamLibrary/steamapps/common/RimWorld/MonoBleedingEdge/etc'
+Initialize engine version: 2019.2.17f1 (8e603399ca02)
+[XR] Discovering subsystems at path E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/UnitySubsystems
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Radeon (TM) R9 390 Series (ID=0x67b0)
+    Vendor:   
+    VRAM:     8168 MB
+    Driver:   26.20.12028.2
+Begin MonoManager ReloadAssembly
+- Completed reload, in  0.152 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.928000 ms
+RimWorld 1.1.2562 rev688
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000025888BC9030.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000025888BC1070.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000025888A2AB50.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002588F8FA040.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000025888AF2B40.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000025888D4E870.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000025888D56680.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000025888D62C90.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000258888D7F30.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000025888D812A0.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000025888D898B0.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000025888D986C0.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000025888DA04D0.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000025888DA40E0.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000025888DB8710.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000025888E72540.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000025888AEEC60.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000025888FDB980.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000025888B2C010.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002588907BBB0.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002588907D5C0.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002588913F1F0.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000025889140400.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000258891F9220.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000258892D3E60.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000258892FFA70.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000025889329890.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000025889332CA0.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000258893E6AD0.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000258893EB4E0.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000258894A0310.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000258894A4120.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000025888B37C70.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000258894C5B40.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000258894C8950.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002588FDDDAC0.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002588FE970E0.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002588FE994F0.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002588FEA2F10.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002588FF5E340.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000025890013F70.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000025890020F90.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000025890022BA0.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000258900F4FC0.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000025888B3DCA0.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002589025BDF0.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000025888B33C50.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000258903C0C30.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002589047BA50.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000025890540C80.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000258905FECA0.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000258906B56C0.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000258906B7AD0.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000025890790710.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000025890844730.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000025890859B60.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002589092C9B0.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002589092F9C0.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000258909EC000.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000258909F5630.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000258909F8C40.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000258909FA250.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000025890AACA70.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000025890AB0080.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000025890ABB090.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000025890ABDEA0.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000025890AC12B0.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000025890B748D0.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000025890B80080.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000025890B8D290.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000025890BABCB0.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000025890B7C700.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000025890B7D910.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000025890C6A6F0.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000025890C6D100.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000025890D67150.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000025890D68760.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000025890E32590.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000025890EF9BC0.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000025890FB11E0.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000025890FB23F0.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000025891069E10.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000025891125430.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000025891128E50.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000258911DB070.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000258912A0690.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000258888EBF80.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002589137A2D0.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000025891432EF0.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000025891439510.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002589144A730.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002589147CD60.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000258851866F0.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000258915449A0.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002589154F9B0.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000258916071D0.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000258917D5270.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000025891888690.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002589193A2B0.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002589193B8C0.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000025884EFFEB0.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000025884F092C0.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000025884F19AD0.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000025884F29100.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000025884F46320.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000025884F4C940.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000258919ED8E0.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000025888B59D80.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000025891AA1900.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000025891AA3D10.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000025891AA6D20.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000025891D0B020.dll
+Fallback handler could not load library E:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000025891E958A0.dll
+[RimThemes] [RimThemes] Init
+[RimThemes] Init Harmony patchs
+RimThemes 2020 R1
+[HugsLib] version 7.1.0
+[HugsLib] early-initializing AllowTool
+RimSaves 2020 R1
+DependencyChecker!
+PickUpAndHaul v0.1.1.0⅓ welcomes you to RimWorld with pointless logspam.
+QualityBuilder successfully patched Replace Stuff
+DubsMintMenus v1.2.605
+DubsPaintShop 1.1.400
+Dubs Skylight 1.5.1146
+DubsBreakMod 1.0.312
+Fluffy Breakdowns :: Initialized
+Dubs Mint Minimap 1.2.404
+Graphics Setter - Loaded
+[RimThemes] Searching themes in E:\SteamLibrary\steamapps\workshop\content\294100\1668983184\Themes\...
+[RimThemes] Found 9 themes
+[RimThemes] Loading theme : Centipede
+[RimThemes] Found and loading animated background file:///E:/SteamLibrary/steamapps/workshop/content/294100/1668983184/Themes/Centipede/Textures/UI_BackgroundMain.BGPlanet.ogv
+[RimThemes] Fallback to default customFont assigned to Nasalization
+[RimThemes] Fallback to default customFontSize assigned to 10
+[RimThemes] Fallback to default customFont assigned to Nasalization
+[RimThemes] Fallback to default customFont assigned to Nasalization
+[RimThemes] Fallback to default customFontSize assigned to 12
+[RimThemes] Fallback to default customFontSize assigned to 16
+[RimThemes] Loading custom sound ArchitectCategorySelect OK
+[RimThemes] Loading custom sound Checkbox_TurnedOff OK
+[RimThemes] Loading custom sound Checkbox_TurnedOn OK
+[RimThemes] Loading custom sound Click OK
+[RimThemes] Loading custom sound ClickReject OK
+[RimThemes] Loading custom sound ColonistSelected OK
+[RimThemes] Loading custom sound Designate_Failed OK
+[RimThemes] Loading custom sound DialogBoxAppear OK
+[RimThemes] Loading custom sound FloatMenu_Cancel OK
+[RimThemes] Loading custom sound FloatMenu_Open OK
+[RimThemes] Loading custom sound InfoCard_Close OK
+[RimThemes] Loading custom sound InfoCard_Open OK
+[RimThemes] Loading custom sound Mouseover_Category OK
+[RimThemes] Loading custom sound Mouseover_Command OK
+[RimThemes] Loading custom sound Mouseover_Standard OK
+[RimThemes] Loading custom sound Mouseover_Tab OK
+[RimThemes] Loading custom sound TabClose OK
+[RimThemes] Loading custom sound TabOpen OK
+[RimThemes] Loading custom sound ThingSelected OK
+[RimThemes] Append EntrySong song to preload songs list
+[RimThemes] Loading theme : Classic Cassandra
+[RimThemes] Found and loading animated background file:///E:/SteamLibrary/steamapps/workshop/content/294100/1668983184/Themes/Classic%20Cassandra/Textures/UI_BackgroundMain.BGPlanet.ogv
+[RimThemes] Fallback to default customFont assigned to Nasalization
+[RimThemes] Fallback to default customFontSize assigned to 10
+[RimThemes] Fallback to default customFont assigned to Nasalization
+[RimThemes] Fallback to default customFont assigned to Nasalization
+[RimThemes] Fallback to default customFontSize assigned to 12
+[RimThemes] Fallback to default customFontSize assigned to 16
+[RimThemes] Loading custom sound ArchitectCategorySelect OK
+[RimThemes] Loading custom sound Checkbox_TurnedOff OK
+[RimThemes] Loading custom sound Checkbox_TurnedOn OK
+[RimThemes] Loading custom sound Click OK
+[RimThemes] Loading custom sound ClickReject OK
+[RimThemes] Loading custom sound ColonistSelected OK
+[RimThemes] Loading custom sound Designate_Failed OK
+[RimThemes] Loading custom sound DialogBoxAppear OK
+[RimThemes] Loading custom sound FloatMenu_Cancel OK
+[RimThemes] Loading custom sound FloatMenu_Open OK
+[RimThemes] Loading custom sound InfoCard_Close OK
+[RimThemes] Loading custom sound InfoCard_Open OK
+[RimThemes] Loading custom sound Mouseover_Category OK
+[RimThemes] Loading custom sound Mouseover_Command OK
+[RimThemes] Loading custom sound Mouseover_Standard OK
+[RimThemes] Loading custom sound Mouseover_Tab OK
+[RimThemes] Loading custom sound TabClose OK
+[RimThemes] Loading custom sound TabOpen OK
+[RimThemes] Loading custom sound ThingSelected OK
+[RimThemes] Append EntrySong song to preload songs list
+[RimThemes] Loading theme : Cyberpunk
+[RimThemes] Found and loading animated background file:///E:/SteamLibrary/steamapps/workshop/content/294100/1668983184/Themes/Cyberpunk/Textures/UI_BackgroundMain.BGPlanet.ogv
+[RimThemes] Fallback to default customFont assigned to Nasalization
+[RimThemes] Fallback to default customFontSize assigned to 10
+[RimThemes] Fallback to default customFont assigned to Nasalization
+[RimThemes] Fallback to default customFont assigned to Nasalization
+[RimThemes] Fallback to default customFontSize assigned to 12
+[RimThemes] Fallback to default customFontSize assigned to 16
+[RimThemes] Loading custom sound ArchitectCategorySelect OK
+[RimThemes] Loading custom sound Checkbox_TurnedOff OK
+[RimThemes] Loading custom sound Checkbox_TurnedOn OK
+[RimThemes] Loading custom sound Click OK
+[RimThemes] Loading custom sound ClickReject OK
+[RimThemes] Loading custom sound ColonistSelected OK
+[RimThemes] Loading custom sound Designate_Failed OK
+[RimThemes] Loading custom sound DialogBoxAppear OK
+[RimThemes] Loading custom sound FloatMenu_Cancel OK
+[RimThemes] Loading custom sound FloatMenu_Open OK
+[RimThemes] Loading custom sound InfoCard_Close OK
+[RimThemes] Loading custom sound InfoCard_Open OK
+[RimThemes] Loading custom sound Mouseover_Category OK
+[RimThemes] Loading custom sound Mouseover_Command OK
+[RimThemes] Loading custom sound Mouseover_Standard OK
+[RimThemes] Loading custom sound Mouseover_Tab OK
+[RimThemes] Loading custom sound TabClose OK
+[RimThemes] Loading custom sound TabOpen OK
+[RimThemes] Loading custom sound ThingSelected OK
+[RimThemes] Append EntrySong song to preload songs list
+[RimThemes] Loading theme : Illuminated Phoebe
+[RimThemes] Fallback to default customFont assigned to SpaceRangercond
+[RimThemes] Fallback to default customFontSize assigned to 12
+[RimThemes] Fallback to default customFont assigned to SpaceRangercond
+[RimThemes] Fallback to default customFont assigned to SpaceRangercond
+[RimThemes] Fallback to default customFontSize assigned to 14
+[RimThemes] Fallback to default customFontSize assigned to 18
+[RimThemes] Loading custom sound ArchitectCategorySelect OK
+[RimThemes] Loading custom sound Checkbox_TurnedOff OK
+[RimThemes] Loading custom sound Checkbox_TurnedOn OK
+[RimThemes] Loading custom sound Click OK
+[RimThemes] Loading custom sound ClickReject OK
+[RimThemes] Loading custom sound ColonistSelected OK
+[RimThemes] Loading custom sound Designate_Failed OK
+[RimThemes] Loading custom sound DialogBoxAppear OK
+[RimThemes] Loading custom sound FloatMenu_Cancel OK
+[RimThemes] Loading custom sound FloatMenu_Open OK
+[RimThemes] Loading custom sound InfoCard_Close OK
+[RimThemes] Loading custom sound InfoCard_Open OK
+[RimThemes] Loading custom sound Mouseover_Category OK
+[RimThemes] Loading custom sound Mouseover_Command OK
+[RimThemes] Loading custom sound Mouseover_Standard OK
+[RimThemes] Loading custom sound Mouseover_Tab OK
+[RimThemes] Loading custom sound TabClose OK
+[RimThemes] Loading custom sound TabOpen OK
+[RimThemes] Loading custom sound ThingSelected OK
+[RimThemes] Append EntrySong song to preload songs list
+[RimThemes] Loading theme : Muffalo
+[RimThemes] Found and loading animated background file:///E:/SteamLibrary/steamapps/workshop/content/294100/1668983184/Themes/Muffalo/Textures/UI_BackgroundMain.BGPlanet.ogv
+[RimThemes] Fallback to default customFont assigned to Nasalization
+[RimThemes] Fallback to default customFontSize assigned to 10
+[RimThemes] Fallback to default customFont assigned to Nasalization
+[RimThemes] Fallback to default customFont assigned to Nasalization
+[RimThemes] Fallback to default customFontSize assigned to 12
+[RimThemes] Fallback to default customFontSize assigned to 16
+[RimThemes] Loading custom sound ArchitectCategorySelect OK
+[RimThemes] Loading custom sound Checkbox_TurnedOff OK
+[RimThemes] Loading custom sound Checkbox_TurnedOn OK
+[RimThemes] Loading custom sound Click OK
+[RimThemes] Loading custom sound ClickReject OK
+[RimThemes] Loading custom sound ColonistSelected OK
+[RimThemes] Loading custom sound Designate_Failed OK
+[RimThemes] Loading custom sound DialogBoxAppear OK
+[RimThemes] Loading custom sound FloatMenu_Cancel OK
+[RimThemes] Loading custom sound FloatMenu_Open OK
+[RimThemes] Loading custom sound InfoCard_Close OK
+[RimThemes] Loading custom sound InfoCard_Open OK
+[RimThemes] Loading custom sound Mouseover_Category OK
+[RimThemes] Loading custom sound Mouseover_Command OK
+[RimThemes] Loading custom sound Mouseover_Standard OK
+[RimThemes] Loading custom sound Mouseover_Tab OK
+[RimThemes] Loading custom sound TabClose OK
+[RimThemes] Loading custom sound TabOpen OK
+[RimThemes] Loading custom sound ThingSelected OK
+[RimThemes] Append EntrySong song to preload songs list
+[RimThemes] Loading theme : Scyther
+[RimThemes] Fallback to default customFont assigned to SpaceRangercond
+[RimThemes] Fallback to default customFontSize assigned to 12
+[RimThemes] Fallback to default customFont assigned to SpaceRangercond
+[RimThemes] Fallback to default customFont assigned to SpaceRangercond
+[RimThemes] Fallback to default customFontSize assigned to 14
+[RimThemes] Fallback to default customFontSize assigned to 18
+[RimThemes] Loading custom sound ArchitectCategorySelect OK
+[RimThemes] Loading custom sound Checkbox_TurnedOff OK
+[RimThemes] Loading custom sound Checkbox_TurnedOn OK
+[RimThemes] Loading custom sound Click OK
+[RimThemes] Loading custom sound ClickReject OK
+[RimThemes] Loading custom sound ColonistSelected OK
+[RimThemes] Loading custom sound Designate_Failed OK
+[RimThemes] Loading custom sound DialogBoxAppear OK
+[RimThemes] Loading custom sound FloatMenu_Cancel OK
+[RimThemes] Loading custom sound FloatMenu_Open OK
+[RimThemes] Loading custom sound InfoCard_Close OK
+[RimThemes] Loading custom sound InfoCard_Open OK
+[RimThemes] Loading custom sound Mouseover_Category OK
+[RimThemes] Loading custom sound Mouseover_Command OK
+[RimThemes] Loading custom sound Mouseover_Standard OK
+[RimThemes] Loading custom sound Mouseover_Tab OK
+[RimThemes] Loading custom sound TabClose OK
+[RimThemes] Loading custom sound TabOpen OK
+[RimThemes] Loading custom sound ThingSelected OK
+[RimThemes] Append EntrySong song to preload songs list
+[RimThemes] Loading theme : Singularity
+[RimThemes] Found and loading animated background file:///E:/SteamLibrary/steamapps/workshop/content/294100/1668983184/Themes/Singularity/Textures/UI_BackgroundMain.BGPlanet.ogv
+[RimThemes] Fallback to default customFont assigned to Nasalization
+[RimThemes] Fallback to default customFontSize assigned to 10
+[RimThemes] Fallback to default customFont assigned to Nasalization
+[RimThemes] Fallback to default customFont assigned to Nasalization
+[RimThemes] Fallback to default customFontSize assigned to 12
+[RimThemes] Fallback to default customFontSize assigned to 16
+[RimThemes] Loading custom sound ArchitectCategorySelect OK
+[RimThemes] Loading custom sound Checkbox_TurnedOff OK
+[RimThemes] Loading custom sound Checkbox_TurnedOn OK
+[RimThemes] Loading custom sound Click OK
+[RimThemes] Loading custom sound ClickReject OK
+[RimThemes] Loading custom sound ColonistSelected OK
+[RimThemes] Loading custom sound Designate_Failed OK
+[RimThemes] Loading custom sound DialogBoxAppear OK
+[RimThemes] Loading custom sound FloatMenu_Cancel OK
+[RimThemes] Loading custom sound FloatMenu_Open OK
+[RimThemes] Loading custom sound InfoCard_Close OK
+[RimThemes] Loading custom sound InfoCard_Open OK
+[RimThemes] Loading custom sound Mouseover_Category OK
+[RimThemes] Loading custom sound Mouseover_Command OK
+[RimThemes] Loading custom sound Mouseover_Standard OK
+[RimThemes] Loading custom sound Mouseover_Tab OK
+[RimThemes] Loading custom sound TabClose OK
+[RimThemes] Loading custom sound TabOpen OK
+[RimThemes] Loading custom sound ThingSelected OK
+[RimThemes] Append EntrySong song to preload songs list
+[RimThemes] Loading theme : Thrumbo
+[RimThemes] Found and loading animated background file:///E:/SteamLibrary/steamapps/workshop/content/294100/1668983184/Themes/Thrumbo/Textures/UI_BackgroundMain.BGPlanet.ogv
+[RimThemes] Fallback to default customFont assigned to SpaceRangercond
+[RimThemes] Fallback to default customFont assigned to SpaceRangercond
+[RimThemes] Fallback to default customFont assigned to SpaceRangercond
+[RimThemes] Fallback to default customFontSize assigned to 12
+[RimThemes] Fallback to default customFontSize assigned to 14
+[RimThemes] Fallback to default customFontSize assigned to 18
+[RimThemes] Loading custom sound ArchitectCategorySelect OK
+[RimThemes] Loading custom sound Checkbox_TurnedOff OK
+[RimThemes] Loading custom sound Checkbox_TurnedOn OK
+[RimThemes] Loading custom sound Click OK
+[RimThemes] Loading custom sound ClickReject OK
+[RimThemes] Loading custom sound ColonistSelected OK
+[RimThemes] Loading custom sound Designate_Failed OK
+[RimThemes] Loading custom sound DialogBoxAppear OK
+[RimThemes] Loading custom sound InfoCard_Close OK
+[RimThemes] Loading custom sound InfoCard_Open OK
+[RimThemes] Loading custom sound Mouseover_Category OK
+[RimThemes] Loading custom sound Mouseover_Command OK
+[RimThemes] Loading custom sound Mouseover_Standard OK
+[RimThemes] Loading custom sound Mouseover_Tab OK
+[RimThemes] Loading custom sound TabClose OK
+[RimThemes] Loading custom sound TabOpen OK
+[RimThemes] Loading custom sound ThingSelected OK
+[RimThemes] Append EntrySong song to preload songs list
+[RimThemes] Loading theme : USFM
+[RimThemes] Fallback to default customFont assigned to Nasalization
+[RimThemes] Fallback to default customFontSize assigned to 10
+[RimThemes] Fallback to default customFont assigned to Nasalization
+[RimThemes] Fallback to default customFont assigned to Nasalization
+[RimThemes] Fallback to default customFontSize assigned to 12
+[RimThemes] Fallback to default customFontSize assigned to 16
+[RimThemes] Loading custom sound ArchitectCategorySelect OK
+[RimThemes] Loading custom sound Checkbox_TurnedOff OK
+[RimThemes] Loading custom sound Checkbox_TurnedOn OK
+[RimThemes] Loading custom sound Click OK
+[RimThemes] Loading custom sound ClickReject OK
+[RimThemes] Loading custom sound ColonistSelected OK
+[RimThemes] Loading custom sound Designate_Failed OK
+[RimThemes] Loading custom sound DialogBoxAppear OK
+[RimThemes] Loading custom sound FloatMenu_Cancel OK
+[RimThemes] Loading custom sound FloatMenu_Open OK
+[RimThemes] Loading custom sound InfoCard_Close OK
+[RimThemes] Loading custom sound InfoCard_Open OK
+[RimThemes] Loading custom sound Mouseover_Category OK
+[RimThemes] Loading custom sound Mouseover_Command OK
+[RimThemes] Loading custom sound Mouseover_Standard OK
+[RimThemes] Loading custom sound Mouseover_Tab OK
+[RimThemes] Loading custom sound TabClose OK
+[RimThemes] Loading custom sound TabOpen OK
+[RimThemes] Loading custom sound ThingSelected OK
+[RimThemes] Append EntrySong song to preload songs list
+[RimThemes] -1§Centipede : Loading custom song EntrySong OK
+[RimThemes] -1§Classic Cassandra : Loading custom song EntrySong OK
+[RimThemes] -1§Cyberpunk : Loading custom song EntrySong OK
+[RimThemes] -1§Illuminated Phoebe : Loading custom song EntrySong OK
+[RimThemes] -1§Muffalo : Loading custom song EntrySong OK
+[RimThemes] -1§Scyther : Loading custom song EntrySong OK
+[RimThemes] -1§Singularity : Loading custom song EntrySong OK
+[RimThemes] Load main fonts package OK
+[RimThemes] -1§Thrumbo : Loading custom song EntrySong OK
+[RimThemes] -1§USFM : Loading custom song EntrySong OK
+[RimThemes] Processing 9 fonts to load
+[RimThemes] Warning tinyFont not found for theme -1§Centipede loading default : Calibri_tiny (UnityEngine.Font)
+[RimThemes] Warning tinyFont not found for theme -1§Classic Cassandra loading default : Calibri_tiny (UnityEngine.Font)
+[RimThemes] Warning tinyFont not found for theme -1§Cyberpunk loading default : Calibri_tiny (UnityEngine.Font)
+[RimThemes] Warning tinyFont not found for theme -1§Illuminated Phoebe loading default : Calibri_tiny (UnityEngine.Font)
+[RimThemes] Warning tinyFont not found for theme -1§Muffalo loading default : Calibri_tiny (UnityEngine.Font)
+[RimThemes] Warning tinyFont not found for theme -1§Scyther loading default : Calibri_tiny (UnityEngine.Font)
+[RimThemes] Warning tinyFont not found for theme -1§Singularity loading default : Calibri_tiny (UnityEngine.Font)
+[RimThemes] Warning tinyFont not found for theme -1§Thrumbo loading default : Calibri_tiny (UnityEngine.Font)
+[RimThemes] Warning tinyFont not found for theme -1§USFM loading default : Calibri_tiny (UnityEngine.Font)
+Config error in Orbital_Factory: AIPersonaCore tradeability doesn't allow traders to sell this thing
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Config error in Orbital_Factory: TechprofSubpersonaCore tradeability doesn't allow traders to sell this thing
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Translation data for language English has 2 errors. Generate translation report for more info.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+EnhancedOptions.Patcher.Patcher(): Starting Patching.
+EnhancedOptions.Patcher.Patcher(): Completed Patching.
+[RimHUD v1.6.4] Initialized
+[Bubbles v1.6.1] Initialized
+[ShowDrafteesWeapon] Initialized
+br.s Label85
+ldloc.s 39 (System.Int32)
+ldelem.i4 NULL
+Match
+EnhancedDevelopment.Embrasures.Patcher(): Starting.
+EnhancedDevelopment.Embrasures.ApplyPatchIfRequired: Skipping Applying Patch: Embrasures
+EnhancedDevelopment.Embrasures.Patcher(): Complete.
+[FieldMedic] patched get_BleedRate for Verse.Hediff_Injury
+[FieldMedic] patched get_BleedRate for Verse.Hediff_MissingPart
+[FieldMedic] inited
+RimFridge Harmony Patches:
+    Prefix:
+        ReachabilityUtility.CanReach - So pawns can get items in Wall-Fridges
+    Postfix:
+    GameComponentUtility.StartedNewGame - Apply power settings at start
+    GameComponentUtility.LoadedGame - Apply power settings on load
+    GenTemperature.TryGetTemperatureForCell - Overrides room temperature within the cells of the RimFridge
+    TradeShip.ColonyThingsWillingToBuy - Add items stored inside a wall-fridge to the trade list if in a room with an orbital beacon
+    FoodUtility.TryFindBestFoodSourceFor - Allow Prisoners to eat food from fridges
+[Food Restrictions v1.1] Initialized
+Patching Madeline.ModMismatchWindow
+Type TextureChooser probably needs a StaticConstructorOnStartup attribute, because it has a field LeftArrow of type Texture2D. All assets must be loaded in the main thread.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+OnLevelWasLoaded was found on ModInitializerComponent
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Mono/MonoScriptCache.cpp Line: 355)
+
+[AllowTool] Applied compatibility patch for "Pick Up And Haul"
+[HugsLib] initializing AnimalGear, RunAndGun, GiddyUpCore, GiddyUpCaravan, GiddyUpRideAndRoll, BattleMounts, SubsurfaceConduit, PeteTimesSix.SimpleSidearms, MURWallLight, BetterPawnControl, com.jkluch.HaulToStack, TerraformRimworld, ImprovedWorkbenches, StackableChunks, FactionDiscovery, LetsTradeSettings, RomanceTweaks
+[StackableChunks] Chunk Stacks set too: 15
+[StackableChunks] Slag Stacks set too: 15
+[LetsTradeSettings] Let's Trade loaded successfully!
+[RimHUD v1.6.4] Integrated with Interaction Bubbles
+[OgreStack]: Modify Stack Sizes Complete
+[RimThemes] Saving vanilla theme...
+[RimThemes] Saving vanilla theme ending
+xdoc is still open. force-closing
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 2)
+UnloadTime: 0.429000 ms
+
+Unloading 322 unused Assets to reduce memory usage. Loaded Objects now: 18302.
+Total: 119.925300 ms (FindLiveObjects: 1.165400 ms CreateObjectMapping: 0.827700 ms MarkObjects: 117.592300 ms  DeleteObjects: 0.339600 ms)
+
+Loading game from file Ideal Map#§#Ideal Start with mods:
+  - brrainz.harmony
+  - Ludeon.RimWorld
+  - aRandomKiwi.RimThemes
+  - Ludeon.RimWorld.Royalty
+  - UnlimitedHugs.HugsLib
+  - Dylan.AnimalGear
+  - OhGodSpidersNo.AnimalArmor.Vanilla
+  - aRandomKiwi.RimSaves
+  - UnlimitedHugs.AllowTool
+  - roolo.RunAndGun
+  - roolo.giddyupcore
+  - roolo.giddyupcaravan
+  - roolo.giddyuprideandroll
+  - roolo.giddyupbattlemounts
+  - ssulunge.BBBodySupport
+  - ssulunge.BBBodyHuman
+  - EdB.PrepareCarefully
+  - Rah.RBSE
+  - Jaxxa.ED.EnhancedOptions
+  - Mehni.PickUpAndHaul
+  - avilmask.CommonSense
+  - Jaxe.RimHUD
+  - brrainz.cameraplus
+  - Oblitus.AnimalsLogic
+  - dismarzero.VGP.VGPVegetableGarden
+  - gguake.ui.simplesearchbar
+  - fluffy.stuffedfloors
+  - hatti.cleaningarea
+  - brrainz.justignoremepassing
+  - hatti.qualitysurgeon
+  - FrozenSnowFox.FilthVanishesWithRainAndTime
+  - hobtook.mortaraccuracy
+  - Jaxe.Bubbles
+  - hatti.qualitybuilder
+  - targhetti.ShowDrafteesWeapon
+  - Murmur.SubsurfaceConduit
+  - aRandomKiwi.DownForMe
+  - VanillaExpanded.VFECore
+  - VanillaExpanded.VFESecurity
+  - VanillaExpanded.VFEFarming
+  - VanillaExpanded.VFEProduction
+  - VanillaExpanded.VFEMedical
+  - VanillaExpanded.VFEArt
+  - VanillaExpanded.VHE
+  - Dubwise.DubsMintMenus
+  - Dubwise.DubsPaintShop
+  - Dubwise.DubsSkylights
+  - Dubwise.DubsBreakMod
+  - PeteTimesSix.SimpleSidearms
+  - automatic.gradienthair
+  - Aze.Hotkeys
+  - tammybee.whereismyweapon
+  - VanillaExpanded.VARME
+  - VanillaExpanded.VAPPE
+  - VanillaExpanded.VWE
+  - Ryflamer.HDPawnTextures
+  - Jaxe.Coastlines
+  - Ogre.OgreStack
+  - CarnySenpai.LootingManager
+  - ZodGilla174.VanillaHMeleeHRetexture
+  - velc.HatsDisplaySelection
+  - Murmur.WallLight
+  - crlsniper.realisticrooms
+  - Jaxxa.ED.Embrasures
+  - spoonshortage.ADogSaidAnimalProsthetics
+  - Extracting.Organs
+  - VouLT.BetterPawnControl
+  - Slaves.Rules
+  - jkluch.HaulToStack
+  - fluffy.fluffybreakdowns
+  - Hanabishi.InwallCoolersAndVents
+  - Knight.infiniteturrets
+  - CarnySenpai.TraitRarityColors
+  - void.terraformrimworld
+  - VanillaExpanded.VWEL
+  - Solaris.FurnitureBase
+  - Dalrae.GloomyDeco
+  - Gloomy.GloomyFaceMk2
+  - sandy.rpgstyleinventory
+  - dubwise.dubsmintminimap
+  - Wemd.PartiallyPassableWindTurbines
+  - DropbearNinja.ImpassableChestdeepWater
+  - chuiu.GreenWorld
+  - Alex.FriendlyFireTweaks
+  - Ethereal.Rejuvenate.Surgery
+  - Uuugggg.ReplaceStuff
+  - Uuugggg.ShareTheLoad
+  - Uuugggg.WhatIsMyPurpose
+  - falconne.BWM
+  - Flyfire2002.FieldMedic
+  - Wemd.SoilContrast
+  - Wemd.RealisticDarknessLight
+  - dninemfive.qualitycooldown
+  - rimfridge.kv.rw
+  - Ogliss.TheWhiteCrayon.Quarry
+  - sargoskar.witcherhunt
+  - twistedpacifist.ReasonableComponents
+  - VanillaExpanded.VCEF
+  - Uuugggg.MealsOnWheels
+  - earthyturtle.stackablechunks
+  - Jaxe.FoodRestrictions
+  - fluffy.medicaltab
+  - fluffy.animaltab
+  - fluffy.worktab
+  - fluffy.pharmacist
+  - Orion.FactionDiscovery
+  - earthyturtle.letstrade
+  - Dingo.LessRebuff
+  - BDew.RomanceTweaks
+  - Uuugggg.ThickArmor
+  - CANICVS.TurtleFriendlyRaids
+  - telefonmast.graphicssettings
+  - Madeline.ModMismatchFormatter
+QualityBuilder added property to '330' things
+Could not resolve reference to object with loadID Thing_Human497 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=WorkTab.PriorityManager curPathRelToParent=/Priorities/keys
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Could not resolve reference to object with loadID Thing_Human500 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=WorkTab.PriorityManager curPathRelToParent=/Priorities/keys
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Could not resolve reference to object with loadID Thing_Human503 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=WorkTab.PriorityManager curPathRelToParent=/Priorities/keys
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Could not resolve reference to object with loadID Thing_Human507 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=WorkTab.PriorityManager curPathRelToParent=/Priorities/keys
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Could not resolve reference to object with loadID Thing_Human510 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=WorkTab.PriorityManager curPathRelToParent=/Priorities/keys
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Could not resolve reference to object with loadID Thing_Human513 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=WorkTab.PriorityManager curPathRelToParent=/Priorities/keys
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Could not resolve reference to object with loadID Thing_Human516 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=WorkTab.PriorityManager curPathRelToParent=/Priorities/keys
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Could not resolve reference to object with loadID Thing_Human519 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=WorkTab.PriorityManager curPathRelToParent=/Priorities/keys
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Null key while loading dictionary of Verse.Pawn and WorkTab.PawnPriorityTracker. label=Priorities
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Null key while loading dictionary of Verse.Pawn and WorkTab.PawnPriorityTracker. label=Priorities
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Null key while loading dictionary of Verse.Pawn and WorkTab.PawnPriorityTracker. label=Priorities
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Null key while loading dictionary of Verse.Pawn and WorkTab.PawnPriorityTracker. label=Priorities
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Null key while loading dictionary of Verse.Pawn and WorkTab.PawnPriorityTracker. label=Priorities
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Null key while loading dictionary of Verse.Pawn and WorkTab.PawnPriorityTracker. label=Priorities
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Null key while loading dictionary of Verse.Pawn and WorkTab.PawnPriorityTracker. label=Priorities
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Null key while loading dictionary of Verse.Pawn and WorkTab.PawnPriorityTracker. label=Priorities
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Could not resolve reference to object with loadID Thing_Human497 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=WorkTab.PawnPriorityTracker curPathRelToParent=
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Could not resolve reference to object with loadID Thing_Human500 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=WorkTab.PawnPriorityTracker curPathRelToParent=
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Could not resolve reference to object with loadID Thing_Human503 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=WorkTab.PawnPriorityTracker curPathRelToParent=
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Could not resolve reference to object with loadID Thing_Human507 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=WorkTab.PawnPriorityTracker curPathRelToParent=
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Could not resolve reference to object with loadID Thing_Human510 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=WorkTab.PawnPriorityTracker curPathRelToParent=
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Could not resolve reference to object with loadID Thing_Human513 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=WorkTab.PawnPriorityTracker curPathRelToParent=
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Could not resolve reference to object with loadID Thing_Human516 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=WorkTab.PawnPriorityTracker curPathRelToParent=
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Could not resolve reference to object with loadID Thing_Human519 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=WorkTab.PawnPriorityTracker curPathRelToParent=
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Cleaned up 0 depricated records from Giddy-up!
+QualityBuilder added to orders category.
+Unloading 0 Unused Serialized files (Serialized files now loaded: 2)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 22519.
+Total: 211.286400 ms (FindLiveObjects: 1.306500 ms CreateObjectMapping: 2.167300 ms MarkObjects: 207.768400 ms  DeleteObjects: 0.044000 ms)
+
+Wrote screenshot C:/Users/Demothenes'/AppData/LocalLow/Ludeon Studios/RimWorld by Ludeon Studios\RimSaves\Previews\Ideal Map#§#Ideal Start.jpg of size 108961
+Wrote screenshot C:/Users/Demothenes'/AppData/LocalLow/Ludeon Studios/RimWorld by Ludeon Studios\RimSaves\Previews\Ideal Map#§#Ideal Start.jpg of size 96015
+Wrote screenshot C:/Users/Demothenes'/AppData/LocalLow/Ludeon Studios/RimWorld by Ludeon Studios\RimSaves\Previews\Ideal Map#§#Ideal Start.jpg of size 96015
+Unloading 3 Unused Serialized files (Serialized files now loaded: 2)
+UnloadTime: 0.465100 ms
+
+Unloading 4193 unused Assets to reduce memory usage. Loaded Objects now: 18601.
+Total: 165.144000 ms (FindLiveObjects: 1.163800 ms CreateObjectMapping: 1.598400 ms MarkObjects: 156.129300 ms  DeleteObjects: 6.252300 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 2)
+UnloadTime: 0.328000 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 18622.
+Total: 150.425500 ms (FindLiveObjects: 0.780200 ms CreateObjectMapping: 0.566300 ms MarkObjects: 149.034500 ms  DeleteObjects: 0.044200 ms)
+
+Loading game from file Ideal Map#§#Ideal Start with mods:
+  - brrainz.harmony
+  - Ludeon.RimWorld
+  - aRandomKiwi.RimThemes
+  - Ludeon.RimWorld.Royalty
+  - UnlimitedHugs.HugsLib
+  - Dylan.AnimalGear
+  - OhGodSpidersNo.AnimalArmor.Vanilla
+  - aRandomKiwi.RimSaves
+  - UnlimitedHugs.AllowTool
+  - roolo.RunAndGun
+  - roolo.giddyupcore
+  - roolo.giddyupcaravan
+  - roolo.giddyuprideandroll
+  - roolo.giddyupbattlemounts
+  - ssulunge.BBBodySupport
+  - ssulunge.BBBodyHuman
+  - EdB.PrepareCarefully
+  - Rah.RBSE
+  - Jaxxa.ED.EnhancedOptions
+  - Mehni.PickUpAndHaul
+  - avilmask.CommonSense
+  - Jaxe.RimHUD
+  - brrainz.cameraplus
+  - Oblitus.AnimalsLogic
+  - dismarzero.VGP.VGPVegetableGarden
+  - gguake.ui.simplesearchbar
+  - fluffy.stuffedfloors
+  - hatti.cleaningarea
+  - brrainz.justignoremepassing
+  - hatti.qualitysurgeon
+  - FrozenSnowFox.FilthVanishesWithRainAndTime
+  - hobtook.mortaraccuracy
+  - Jaxe.Bubbles
+  - hatti.qualitybuilder
+  - targhetti.ShowDrafteesWeapon
+  - Murmur.SubsurfaceConduit
+  - aRandomKiwi.DownForMe
+  - VanillaExpanded.VFECore
+  - VanillaExpanded.VFESecurity
+  - VanillaExpanded.VFEFarming
+  - VanillaExpanded.VFEProduction
+  - VanillaExpanded.VFEMedical
+  - VanillaExpanded.VFEArt
+  - VanillaExpanded.VHE
+  - Dubwise.DubsMintMenus
+  - Dubwise.DubsPaintShop
+  - Dubwise.DubsSkylights
+  - Dubwise.DubsBreakMod
+  - PeteTimesSix.SimpleSidearms
+  - automatic.gradienthair
+  - Aze.Hotkeys
+  - tammybee.whereismyweapon
+  - VanillaExpanded.VARME
+  - VanillaExpanded.VAPPE
+  - VanillaExpanded.VWE
+  - Ryflamer.HDPawnTextures
+  - Jaxe.Coastlines
+  - Ogre.OgreStack
+  - CarnySenpai.LootingManager
+  - ZodGilla174.VanillaHMeleeHRetexture
+  - velc.HatsDisplaySelection
+  - Murmur.WallLight
+  - crlsniper.realisticrooms
+  - Jaxxa.ED.Embrasures
+  - spoonshortage.ADogSaidAnimalProsthetics
+  - Extracting.Organs
+  - VouLT.BetterPawnControl
+  - Slaves.Rules
+  - jkluch.HaulToStack
+  - fluffy.fluffybreakdowns
+  - Hanabishi.InwallCoolersAndVents
+  - Knight.infiniteturrets
+  - CarnySenpai.TraitRarityColors
+  - void.terraformrimworld
+  - VanillaExpanded.VWEL
+  - Solaris.FurnitureBase
+  - Dalrae.GloomyDeco
+  - Gloomy.GloomyFaceMk2
+  - sandy.rpgstyleinventory
+  - dubwise.dubsmintminimap
+  - Wemd.PartiallyPassableWindTurbines
+  - DropbearNinja.ImpassableChestdeepWater
+  - chuiu.GreenWorld
+  - Alex.FriendlyFireTweaks
+  - Ethereal.Rejuvenate.Surgery
+  - Uuugggg.ReplaceStuff
+  - Uuugggg.ShareTheLoad
+  - Uuugggg.WhatIsMyPurpose
+  - falconne.BWM
+  - Flyfire2002.FieldMedic
+  - Wemd.SoilContrast
+  - Wemd.RealisticDarknessLight
+  - dninemfive.qualitycooldown
+  - rimfridge.kv.rw
+  - Ogliss.TheWhiteCrayon.Quarry
+  - sargoskar.witcherhunt
+  - twistedpacifist.ReasonableComponents
+  - VanillaExpanded.VCEF
+  - Uuugggg.MealsOnWheels
+  - earthyturtle.stackablechunks
+  - Jaxe.FoodRestrictions
+  - fluffy.medicaltab
+  - fluffy.animaltab
+  - fluffy.worktab
+  - fluffy.pharmacist
+  - Orion.FactionDiscovery
+  - earthyturtle.letstrade
+  - Dingo.LessRebuff
+  - BDew.RomanceTweaks
+  - Uuugggg.ThickArmor
+  - CANICVS.TurtleFriendlyRaids
+  - telefonmast.graphicssettings
+  - Madeline.ModMismatchFormatter
+QualityBuilder added property to '0' things
+Cleaned up 61 depricated records from Giddy-up!
+Unloading 0 Unused Serialized files (Serialized files now loaded: 2)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 22752.
+Total: 231.100200 ms (FindLiveObjects: 1.023900 ms CreateObjectMapping: 1.859500 ms MarkObjects: 228.175900 ms  DeleteObjects: 0.040700 ms)
+
+Wrote screenshot C:/Users/Demothenes'/AppData/LocalLow/Ludeon Studios/RimWorld by Ludeon Studios\RimSaves\Previews\Ideal Map#§#Ideal Start.jpg of size 93655
+Wrote screenshot C:/Users/Demothenes'/AppData/LocalLow/Ludeon Studios/RimWorld by Ludeon Studios\RimSaves\Previews\Ideal Map#§#Ideal Start.jpg of size 163576
+Wrote screenshot C:/Users/Demothenes'/AppData/LocalLow/Ludeon Studios/RimWorld by Ludeon Studios\RimSaves\Previews\Ideal Map#§#Ideal Start.jpg of size 163576
+Tried to draw quad with null material.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tried to draw quad with null material.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tried to draw quad with null material.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tried to draw quad with null material.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tried to draw quad with null material.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tried to draw quad with null material.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tried to draw quad with null material.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tried to draw quad with null material.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tried to draw quad with null material.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tried to draw quad with null material.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tried to draw quad with null material.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tried to draw quad with null material.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tried to draw quad with null material.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tried to draw quad with null material.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tried to draw quad with null material.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tried to draw quad with null material.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tried to draw quad with null material.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tried to draw quad with null material.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tried to draw quad with null material.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tried to draw quad with null material.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tried to draw quad with null material.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tried to draw quad with null material.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tried to draw quad with null material.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tried to draw quad with null material.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tried to draw quad with null material.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tried to draw quad with null material.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tried to draw quad with null material.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tried to draw quad with null material.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tried to draw quad with null material.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tried to draw quad with null material.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tried to draw quad with null material.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tried to draw quad with null material.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tried to draw quad with null material.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tried to draw quad with null material.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tried to draw quad with null material.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tried to draw quad with null material.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tried to draw quad with null material.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tried to draw quad with null material.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tried to draw quad with null material.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tried to draw quad with null material.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tried to draw quad with null material.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tried to draw quad with null material.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tried to draw quad with null material.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tried to draw quad with null material.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tried to draw quad with null material.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tried to draw quad with null material.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tried to draw quad with null material.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tried to draw quad with null material.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tried to draw quad with null material.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tried to draw quad with null material.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tried to draw quad with null material.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tried to draw quad with null material.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tried to draw quad with null material.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tried to draw quad with null material.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tried to draw quad with null material.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tried to draw quad with null material.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tried to draw quad with null material.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tried to draw quad with null material.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tried to draw quad with null material.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tried to draw quad with null material.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tried to draw quad with null material.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tried to draw quad with null material.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tried to draw quad with null material.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tried to draw quad with null material.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tried to draw quad with null material.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tried to draw quad with null material.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tried to draw quad with null material.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tried to draw quad with null material.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tried to draw quad with null material.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tried to draw quad with null material.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tried to draw quad with null material.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tried to draw quad with null material.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tried to draw quad with null material.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tried to draw quad with null material.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tried to draw quad with null material.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tried to draw quad with null material.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tried to draw quad with null material.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tried to draw quad with null material.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tried to draw quad with null material.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tried to draw quad with null material.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tried to draw quad with null material.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tried to draw quad with null material.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tried to draw quad with null material.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tried to draw quad with null material.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tried to draw quad with null material.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tried to draw quad with null material.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tried to draw quad with null material.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tried to draw quad with null material.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tried to draw quad with null material.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Wrote screenshot C:/Users/Demothenes'/AppData/LocalLow/Ludeon Studios/RimWorld by Ludeon Studios\RimSaves\Previews\Ideal Map#§#Autosave-1.jpg of size 116959
+[HugsLib][warn] Exception during log publishing (gist creation): System.Exception: HTTP/1.1 400 Bad Request
+  at HugsLib.Utils.HugsLibUtility+<>c__DisplayClass22_0.<AwaitUnityWebResponse>b__0 () [0x000a6] in <a5967e71a88c4226ab09a2b55a996b0d>:0 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[HugsLib][warn] Exception during log publishing (gist creation): System.Exception: HTTP/1.1 400 Bad Request
+  at HugsLib.Utils.HugsLibUtility+<>c__DisplayClass22_0.<AwaitUnityWebResponse>b__0 () [0x000a6] in <a5967e71a88c4226ab09a2b55a996b0d>:0 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[HugsLib][warn] Exception during log publishing (gist creation): System.Exception: HTTP/1.1 400 Bad Request
+  at HugsLib.Utils.HugsLibUtility+<>c__DisplayClass22_0.<AwaitUnityWebResponse>b__0 () [0x000a6] in <a5967e71a88c4226ab09a2b55a996b0d>:0 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[HugsLib][warn] Exception during log publishing (gist creation): System.Exception: HTTP/1.1 400 Bad Request
+  at HugsLib.Utils.HugsLibUtility+<>c__DisplayClass22_0.<AwaitUnityWebResponse>b__0 () [0x000a6] in <a5967e71a88c4226ab09a2b55a996b0d>:0 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[HugsLib][warn] Exception during log publishing (gist creation): System.Exception: HTTP/1.1 400 Bad Request
+  at HugsLib.Utils.HugsLibUtility+<>c__DisplayClass22_0.<AwaitUnityWebResponse>b__0 () [0x000a6] in <a5967e71a88c4226ab09a2b55a996b0d>:0 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[HugsLib][warn] Exception during log publishing (gist creation): System.Exception: HTTP/1.1 400 Bad Request
+  at HugsLib.Utils.HugsLibUtility+<>c__DisplayClass22_0.<AwaitUnityWebResponse>b__0 () [0x000a6] in <a5967e71a88c4226ab09a2b55a996b0d>:0 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[HugsLib][warn] Exception during log publishing (gist creation): System.Exception: HTTP/1.1 400 Bad Request
+  at HugsLib.Utils.HugsLibUtility+<>c__DisplayClass22_0.<AwaitUnityWebResponse>b__0 () [0x000a6] in <a5967e71a88c4226ab09a2b55a996b0d>:0 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[HugsLib][warn] Exception during log publishing (gist creation): System.Exception: HTTP/1.1 400 Bad Request
+  at HugsLib.Utils.HugsLibUtility+<>c__DisplayClass22_0.<AwaitUnityWebResponse>b__0 () [0x000a6] in <a5967e71a88c4226ab09a2b55a996b0d>:0 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[HugsLib][warn] Exception during log publishing (gist creation): System.Exception: HTTP/1.1 400 Bad Request
+  at HugsLib.Utils.HugsLibUtility+<>c__DisplayClass22_0.<AwaitUnityWebResponse>b__0 () [0x000a6] in <a5967e71a88c4226ab09a2b55a996b0d>:0 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[HugsLib][warn] Exception during log publishing (gist creation): System.Exception: HTTP/1.1 400 Bad Request
+  at HugsLib.Utils.HugsLibUtility+<>c__DisplayClass22_0.<AwaitUnityWebResponse>b__0 () [0x000a6] in <a5967e71a88c4226ab09a2b55a996b0d>:0 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tried to make non-trader-sellable thing for trader stock: AIPersonaCore
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tried to make non-trader-sellable thing for trader stock: TechprofSubpersonaCore
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[HugsLib][warn] Exception during log publishing (gist creation): System.Exception: HTTP/1.1 400 Bad Request
+  at HugsLib.Utils.HugsLibUtility+<>c__DisplayClass22_0.<AwaitUnityWebResponse>b__0 () [0x000a6] in <a5967e71a88c4226ab09a2b55a996b0d>:0 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Wrote screenshot C:/Users/Demothenes'/AppData/LocalLow/Ludeon Studios/RimWorld by Ludeon Studios\RimSaves\Previews\Ideal Map#§#Autosave-2.jpg of size 186232
+Wrote screenshot C:/Users/Demothenes'/AppData/LocalLow/Ludeon Studios/RimWorld by Ludeon Studios\RimSaves\Previews\Ideal Map#§#Autosave-3.jpg of size 148733
+Wrote screenshot C:/Users/Demothenes'/AppData/LocalLow/Ludeon Studios/RimWorld by Ludeon Studios\RimSaves\Previews\Ideal Map#§#Autosave-4.jpg of size 96737
+[HugsLib][warn] Exception during log publishing (gist creation): System.Exception: HTTP/1.1 400 Bad Request
+  at HugsLib.Utils.HugsLibUtility+<>c__DisplayClass22_0.<AwaitUnityWebResponse>b__0 () [0x000a6] in <a5967e71a88c4226ab09a2b55a996b0d>:0 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[HugsLib][warn] Exception during log publishing (gist creation): System.Exception: HTTP/1.1 400 Bad Request
+  at HugsLib.Utils.HugsLibUtility+<>c__DisplayClass22_0.<AwaitUnityWebResponse>b__0 () [0x000a6] in <a5967e71a88c4226ab09a2b55a996b0d>:0 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 18066.
+Total: 181.836100 ms (FindLiveObjects: 1.738100 ms CreateObjectMapping: 1.438500 ms MarkObjects: 178.593400 ms  DeleteObjects: 0.065700 ms)
+
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 126c -> priority: 1 
+  Thread -> id: 2f94 -> priority: 1 
+  Thread -> id: 21a8 -> priority: 1 
+  Thread -> id: a0c -> priority: 1 
